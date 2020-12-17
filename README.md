@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/solital/core/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/brenno-duarte/correios-api?style=flat-square"></a>
+  <a href="https://github.com/brenno-duarte/correios-api/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/brenno-duarte/correios-api?style=flat-square"></a>
   <a href="https://github.com/brenno-duarte/correios-api/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/brenno-duarte/correios-api?style=flat-square"></a>
 </p>
 
