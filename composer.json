@@ -1,6 +1,7 @@
 {
     "name": "brenno-duarte/correios-api",
     "description": "API não oficial em PHP para os principais serviços dos Correios",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "CorreiosAPI\\": "src/"
