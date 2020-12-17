@@ -1,0 +1,12 @@
+{
+    "name": "brenno-duarte/CorreiosAPI",
+    "description": "API não oficial em PHP para os principais serviços dos Correios",
+    "autoload": {
+        "psr-4": {
+            "CorreiosAPI\\": "src/"
+        }
+    },
+    "require": {
+        "paquettg/php-html-parser": "^3.1"
+    }
+}
