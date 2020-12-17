@@ -1,5 +1,5 @@
 {
-    "name": "brenno-duarte/CorreiosAPI",
+    "name": "brenno-duarte/correios-api",
     "description": "API não oficial em PHP para os principais serviços dos Correios",
     "autoload": {
         "psr-4": {
