@@ -10,7 +10,7 @@ API não oficial em PHP para os principais serviços dos Correios.
 ## Instalação via Composer
 
 ```
-composer brenno-duarte/CorreiosAPI
+composer brenno-duarte/correios-api
 ```
 
 ## Inicializando
